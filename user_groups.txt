@@ -1,0 +1,5 @@
+john_doe;developers,sysadmins
+jane_smith;developers
+alice_wonder;sysadmins,managers
+bob_builder;developers
+charlie_brown;managers
