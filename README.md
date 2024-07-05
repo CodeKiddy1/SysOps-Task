@@ -27,7 +27,7 @@ Format each line as username;group1,group2,....
 
 ## Run the Script
 
-sudo ./create_users.sh
+sudo ./create_users.sh user_groups.txt
 
 ## Verify Log Files
 
